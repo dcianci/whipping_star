@@ -977,7 +977,7 @@ TH1D SBNchi::SampleCovarianceVaryInput(SBNspec *specin, int num_MC, std::vector<
 
     TRandom3 * rangen = new TRandom3(0);
 
-    TH1D ans("","",150,0,150);
+    TH1D ans("","",1000,0,100);
     //ans.GetXaxis()->SetCanExtend(kTRUE);
     is_verbose = false;
 
