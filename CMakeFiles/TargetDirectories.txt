@@ -1,0 +1,11 @@
+/uboone/app/users/dcianci/DLLEESensitivity/whipping_star/lee/CMakeFiles/DLCovar.dir
+/uboone/app/users/dcianci/DLLEESensitivity/whipping_star/lee/CMakeFiles/DLSens.dir
+/uboone/app/users/dcianci/DLLEESensitivity/whipping_star/lee/CMakeFiles/DLUnfold.dir
+/uboone/app/users/dcianci/DLLEESensitivity/whipping_star/libio/CMakeFiles/EventWeight.dir
+/uboone/app/users/dcianci/DLLEESensitivity/whipping_star/libio/CMakeFiles/G__EventWeight.dir
+/uboone/app/users/dcianci/DLLEESensitivity/whipping_star/src/CMakeFiles/SBNfitlib.dir
+/uboone/app/users/dcianci/DLLEESensitivity/whipping_star/lee/CMakeFiles/UnfoldScale.dir
+/uboone/app/users/dcianci/DLLEESensitivity/whipping_star/examples/CMakeFiles/example1.dir
+/uboone/app/users/dcianci/DLLEESensitivity/whipping_star/examples/CMakeFiles/example2.dir
+/uboone/app/users/dcianci/DLLEESensitivity/whipping_star/examples/CMakeFiles/example3.dir
+/uboone/app/users/dcianci/DLLEESensitivity/whipping_star/tinyxml/CMakeFiles/tinyxmllib.dir
